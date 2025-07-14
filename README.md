@@ -113,7 +113,7 @@ jupyter notebook predict-customer-purchase-behavior.ipynb
 
 ## 👤 Author
 
-**Rahul Kumar Sharma**
+** Rahul Kumar Sharma **
 * 🎓 B.Tech, Mining Engineering – IIT (ISM) Dhanbad
 * 📧 [20je0749@iitism.ac.in](mailto:20je0749@iitism.ac.in)
 * 🔗 [GitHub](https://github.com/Rahul29999) | [LinkedIn](https://linkedin.com/in/rahul-kumar-sharma-aa0b57233)
